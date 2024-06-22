@@ -21,3 +21,5 @@ Within the dags, it is also developed how the precedence of the tasks will be.
 
 - DAG: This is an Airflow pipeline
    - What is this pipeline going to do?
+ 
+ https://github.com/JosiTubaroski/Running_Airflow_in_Docker  
